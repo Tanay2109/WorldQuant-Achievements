@@ -1,5 +1,5 @@
 # WorldQuant Alpha Strategies
-This repository showcases a collection of my alphas and their corresponding strategies developed during the WorldQuant International Quant Championship 2024 (IQC '24). Each alpha encapsulates a unique hypothesis derived from my unique perspective on quantitative research, implemented using predictive signals on US financial markets.
+This repository showcases a collection of my alphas and their corresponding strategies developed during the WorldQuant International Quant Championship 2024 (IQC '24). Each alpha encapsulates a unique hypothesis derived from my unique perspective on quantitative research, implemented using predictive signals on top 3000 US stocks based on liquidity.
 
 🔍 What's Inside:
 
