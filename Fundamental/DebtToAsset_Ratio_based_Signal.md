@@ -2,7 +2,7 @@
 
 🧮 Alpha Formula
 
-# rank(ts_delta(debt,250)/assets && ts_delta(close,250) && ts_rank(-debt/equity,250))
+rank(ts_delta(debt,250)/assets && ts_delta(close,250) && ts_rank(-debt/equity,250))
 
 🧠 Hypothesis & Strategy
 
