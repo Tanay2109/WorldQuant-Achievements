@@ -24,7 +24,8 @@ The goal is to identify companies:
 - Financially stable (low debt/equity ratio).
 
 Trading Logic:
-Go long on companies with favorable scores across all metrics, and short those with weak fundamentals and poor momentum signals.
+- Go long on companies with favorable scores across all metrics.
+- Short those with weak fundamentals and poor momentum signals.
 
 📊 Performance Metrics
 
@@ -40,6 +41,6 @@ Go long on companies with favorable scores across all metrics, and short those w
 
 - Margin = 7.97‱
 
-The use of combined ranking and time-series delta functions captures both temporal shifts and relative performance. Good balance between risk and return with moderate Sharpe and manageable drawdown.
+Good balance between risk and return with moderate Sharpe and manageable drawdown.
 
 
