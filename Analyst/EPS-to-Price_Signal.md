@@ -12,7 +12,9 @@ This alpha leverages the estimated EPS (Earnings Per Share) to price ratio as a 
 
 By applying a 60-day time-series rank to this ratio, we measure how strong the signal is relative to its past values. This temporal ranking helps identify sustained momentum in analyst sentiment and avoids noisy fluctuations.
 
-Trading Logic: Go long on stocks where the est_eps/close ratio has improved relative to the past 60 days — signaling growing confidence in future performance. Go short on those where the ratio is deteriorating — potentially overhyped or facing future earnings pressure.
+Trading Logic: 
+- Go long on stocks where the est_eps/close ratio has improved relative to the past 60 days — signaling growing confidence in future performance.
+- Go short on those where the ratio is deteriorating — potentially overhyped or facing future earnings pressure.
 
 📊 Performance Metrics
 
