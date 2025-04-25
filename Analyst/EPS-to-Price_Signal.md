@@ -18,8 +18,6 @@ Trading Logic:
 
 📊 Performance Metrics
 
-- Metric	Value
-
 - Sharpe	0.61
 
 - Turnover	16.71%
