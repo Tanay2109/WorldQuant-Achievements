@@ -4,6 +4,7 @@
 rank(volume / (ts_sum(volume,60)/60) * rank((ts_sum(close,5)/5) / close))
 
 🧠 Hypothesis & Strategy
+
 This alpha is based on a price-volume interaction signal that captures bullish sentiment driven by abnormal trading activity during a short-term price pullback.
 - Volume Spike: This measures how today’s volume compares to its 60-day average. A value significantly >1 indicates unusual interest or activity, potentially from institutional investors or market-moving news.
 - Short-Term Price Weakness: If this ratio is >1, it means the current price is below the recent 5-day average, indicating a pullback or temporary weakness.
